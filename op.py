@@ -2,7 +2,7 @@ a = 123
 b = 345
 print(a+b)
 
-yyy = "bomars"
+yyy = "FFF"
 print(yyy)
 
 jk = "ftr"
