@@ -4,3 +4,6 @@ print(a+b)
 
 yyy = "bomars"
 print(yyy)
+
+jk = "ftr"
+print(jk)
